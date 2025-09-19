@@ -1,4 +1,4 @@
-## The official complete code for paper "Towards Robust Infrared Small Target Detection: A Feature-Enhanced and Sensitivity-Tunable Framework" [[Paper/arXiv](https://arxiv.org/abs/2407.20090)]
+## The official complete code for paper "Towards Robust Infrared Small Target Detection: A Feature-Enhanced and Sensitivity-Tunable Framework" [[Paper/arXiv](https://arxiv.org/abs/2407.20090)] [Accepted by KBS2025]  
 
 ✔ We propose a Feature-Enhanced and Sensitivity-Tunable (FEST) Framework, which can effectively enhance the performance of existing SIRST detection networks. **This code integrates a series of infrared small target detection networks** (ACM, ALCNet, MLCL-Net, ALCL-Net, DNA-Net, GGL-Net UIUNet, MSDA-Net). **Everyone is welcome to use this project code.**
 
